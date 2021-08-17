@@ -8,7 +8,7 @@ import PersonOutlinedIcon from "@material-ui/icons/PersonOutlined";
 
 const useStyles = makeStyles(() => ({
   root: {
-    margin: "23px",
+    margin: "23px auto",
   },
   plusIconContainer: {
     display: "flex",

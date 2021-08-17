@@ -38,7 +38,6 @@ export const Home = ({ userInfo }) => {
       <Button variant="outlined" color="primary" className={classes.Button}>
         SEE MORE
       </Button>
-      \
       <Divider />
       <NavBar />
     </Grid>
